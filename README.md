@@ -1,3 +1,5 @@
+# WELLCOM TO RTU DIGITAL LIBRARY
+
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=100)](https://github.com/ImanMohi/)
 [![GitHub contributors](https://img.shields.io/github/contributors/ImanMohi/RTU-DigitalLibrary.svg)](https://github.com/ImanMohi/RTU-DigitalLibrary/contributors/)
 [![GitHub Issues](https://img.shields.io/github/issues/zatch3301/covid-live-update.svg)](https://github.com/ImanMohi/RTU-DigitalLibrary/issues)
@@ -9,9 +11,9 @@
 
 ***
 
-### **Please read the [`contributing guidelines`](./contributing.md) before submitting new resources**
+### **Please read it carefully [`contributing guidelines`](./contributing.md) before submitting new resources**
 
 * We are looking for significant programs and not 2-3 lines of code.
-* Please avoid putting in programs which are already there.
+* Please avoid the putting in programs which are already exist there.
 * Put your codes in correct folder.
 Coding by Namrutha [@namruthahari]
